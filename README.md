@@ -2,7 +2,7 @@
 
 End-to-end analysis of retail customer data: **Python** for cleaning, **PostgreSQL** for analysis, **Power BI** for the dashboard.
 
-![Dashboard Preview](images/Screenshot 2026-10-06 162618.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## Business Problem
 A retail company wants to understand how discounts, reviews, seasons and payment preferences affect purchases and repeat buying, so it can improve sales, customer satisfaction and loyalty.
