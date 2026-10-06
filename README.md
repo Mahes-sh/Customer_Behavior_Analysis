@@ -81,4 +81,4 @@ File: `customer_behavior_dashboard.pbix`
 3. Open the `.pbix` file in Power BI Desktop
 
 ## Author
-**Mahesh Kumar** | [https://www.linkedin.com/in/mahesh-ba5a9b35a?utm_source=share_via&utm_content=profile&utm_medium=member_android](#)| mahesh9559ya@gmail.com
+**Mahesh Kumar** | [LinkedIn](https://www.linkedin.com/in/mahesh-ba5a9b35a) | mahesh9559ya@gmail.com
